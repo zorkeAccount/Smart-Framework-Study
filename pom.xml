@@ -6,7 +6,11 @@
 
     <groupId>aokay.tech</groupId>
     <artifactId>smart-framework-study</artifactId>
+    <packaging>pom</packaging>
     <version>1.0.0</version>
+    <modules>
+        <module>chapter1</module>
+    </modules>
 
 
 </project>
